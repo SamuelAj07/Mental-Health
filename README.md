@@ -40,8 +40,9 @@ The primary dataset used for this analysis was sourced from “Kaggle.com” –
 
 1. Excel
 
--Data overview here()
--Cross-taulation()
+-[Data overview here](https://ibb.co/XfMY9xKt)
+
+-[Cross-taulation](https://ibb.co/S4YQMZzH)
 
 2. PowerBI
 
@@ -104,7 +105,14 @@ iv. What proportion of students experiencing mental health issues have sought he
 
 
 ## Analysis Visualisation
-Chart Analysis 
+
+CHART ANALYSIS
+
+![Screenshot (152)](https://github.com/user-attachments/assets/07206521-b680-457b-9b06-c87be09f05fa)
+
+![Screenshot (154)](https://github.com/user-attachments/assets/be0d9cb7-230e-4ff9-83f7-7d6aede47129)
+
+![Screenshot (155)](https://github.com/user-attachments/assets/9ebf7b9a-0d2b-4d1c-9273-656dd79fca28)
 
 ### Queries
 
