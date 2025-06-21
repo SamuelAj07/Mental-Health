@@ -42,7 +42,7 @@ The primary dataset used for this analysis was sourced from “Kaggle.com” –
 
 - [Data overview here](https://ibb.co/XfMY9xKt)
 
-- [Cross-taulation](https://ibb.co/S4YQMZzH)
+- [Cross-tabulation](https://ibb.co/S4YQMZzH)
 
 2. PowerBI
 
