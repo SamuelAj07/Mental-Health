@@ -41,6 +41,7 @@ The primary dataset used for this analysis was sourced from “Kaggle.com” –
 1. Excel
 
 -Data overview here()
+-Cross-taulation()
 
 2. PowerBI
 
@@ -107,7 +108,17 @@ Chart Analysis
 
 ### Queries
 
+```Sql
+---Student with thw Minimum Cgpa--
+SELECT * FROM [dbo].[Student_Mental_Health]
+WHERE CGPA_Midpoint = (SELECT MIN(CGPA_Midpoint) from [dbo].[Student_Mental_Health]);
+```
 
+```Sql
+---Student with thw Maximum Cgpa--
+SELECT * FROM [dbo].[Student_Mental_Health]
+WHERE CGPA_Midpoint = (SELECT MAX(CGPA_Midpoint) from [dbo].[Student_Mental_Health]); 
+```
 ## Key Insights
 
 1.	Depression is highest at ages 18(11 cases) with a gradual decline across till ages 21(0 case) before a gradual increase back to age 24.
