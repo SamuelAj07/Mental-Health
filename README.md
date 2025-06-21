@@ -40,9 +40,9 @@ The primary dataset used for this analysis was sourced from “Kaggle.com” –
 
 1. Excel
 
--[Data overview here](https://ibb.co/XfMY9xKt)
+- [Data overview here](https://ibb.co/XfMY9xKt)
 
--[Cross-taulation](https://ibb.co/S4YQMZzH)
+- [Cross-taulation](https://ibb.co/S4YQMZzH)
 
 2. PowerBI
 
